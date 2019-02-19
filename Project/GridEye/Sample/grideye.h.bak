@@ -1,0 +1,6 @@
+#ifndef _grideye_h_
+#define _grideye_h_
+
+#define FALSE	0
+
+#endif
